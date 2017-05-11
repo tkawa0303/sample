@@ -40,3 +40,6 @@ $user = $getUser->get("account/verify_credentials");
  
 // ユーザ情報の展開
 var_dump($user);
+
+// getUserの展開
+var_dump($getUser);
